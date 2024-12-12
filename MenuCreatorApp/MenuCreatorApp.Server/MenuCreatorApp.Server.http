@@ -1,0 +1,6 @@
+@MenuCreatorApp.Server_HostAddress = http://localhost:5212
+
+GET {{MenuCreatorApp.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
